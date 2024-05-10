@@ -24,6 +24,30 @@ body{
 
 .left, .center, .right{
     background-color: var(--color-one);
+    border-radius: 5px;
+    height: 98vh;
+    padding: 15px
+
+}
+
+.searchBox {
+    background-color: var(--color-three);
+    width: 90%;
+    height: 5vh;
+    border-radius: 100px;
+    padding: 10px;
+    
+
+}
+
+input{
+
+    color: var(--color-two);
+    height: 2vh;
+    width: 80%;
+    background-color: var(--color-three);
+    border: none
+    
 }
 
 
