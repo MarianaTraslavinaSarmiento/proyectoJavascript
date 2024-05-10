@@ -22,34 +22,51 @@ body{
     
 }
 
-.left, .center, .right{
+.discover__new__music, .now__playing, .track__list{
     background-color: var(--color-one);
     border-radius: 5px;
-    height: 98vh;
+    height: 97vh;
     padding: 15px
 
 }
 
+
+.searchBox i{
+    color: #bbbbbb;
+    position: absolute;
+    top: 24px;
+    left: 12px;
+}
+
+.searchBox:hover > i{
+    color: white;
+}
+
+
 .searchBox {
-    background-color: var(--color-three);
-    width: 90%;
-    height: 5vh;
-    border-radius: 100px;
-    padding: 10px;
-    
+    position: relative;
+    height: 28px;
 
 }
 
-input{
 
-    color: var(--color-two);
-    height: 2vh;
-    width: 80%;
-    background-color: var(--color-three);
-    border: none
-    
+
+.textSearch {
+    width: 100%;
+    background-color: #242424;
+    border: 0;
+    border-radius: 500px;
+    color: #fff;
+    height: 40px;
+    padding: 6px 36px;
+    margin-block: 12px;
+    overflow: ellipsis;
 }
 
+.textSearch:hover {
+    box-shadow: 0px 0px 1.5px rgb(197, 197, 197);
+    background-color: #282828;
+}
 
 
 
