@@ -1,0 +1,18 @@
+@font-face {
+    font-family: GothamBook;
+    src: url(../storage/fonts/GothamBook.ttf);
+}
+
+@font-face {
+    font-family: GothamBold;
+    src: url(../storage/fonts/GothamBold.ttf);
+}
+
+:root {
+    --color-green: #1db954;
+    --color-one: #212121;
+    --color-two: #121212;
+    --color-three: 	#535353;
+    --color-gray: 	#b3b3b3;
+    
+}
