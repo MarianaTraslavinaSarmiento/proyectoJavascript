@@ -4,9 +4,29 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: GothamBold;
+    color: #ffff
 }
 
 body{
-
     background-color: var(--color-two);
+    padding: 10px
 }
+
+
+#main{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-gap: 10px;
+    background-color: var(--color-two)
+    
+}
+
+.left, .center, .right{
+    background-color: var(--color-one);
+}
+
+
+
+
+
