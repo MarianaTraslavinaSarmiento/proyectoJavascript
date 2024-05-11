@@ -1,0 +1,77 @@
+{
+  "query": "finese",
+  "tracks": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:track:3Vo4wInECJQuz9BIBMOu8i",
+          "id": "3Vo4wInECJQuz9BIBMOu8i",
+          "name": "Finesse - Remix; feat. Cardi B",
+          "albumOfTrack": {
+            "uri": "spotify:album:3mumK2ar9b4JPhVOZR0V2p",
+            "name": "Finesse (Remix) [feat. Cardi B]",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0247e522adf030a78615cdea06",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485147e522adf030a78615cdea06",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "3mumK2ar9b4JPhVOZR0V2p",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p?si=LG9bzX9EQ3SuOKcNN4pJdg"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+                "profile": {
+                  "name": "Bruno Mars"
+                }
+              },
+              {
+                "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB",
+                "profile": {
+                  "name": "Cardi B"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 217288
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      }
+    ],
+
+    "pagingInfo": {
+      "nextOffset": 1,
+      "limit": 1
+    }
+  }
+}

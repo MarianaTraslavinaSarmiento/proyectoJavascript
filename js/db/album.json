@@ -1,0 +1,373 @@
+{
+  "query": "justin",
+  "albums": {
+    "totalCount": 623,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:album:716B2iWcwoKolCXrqwLGQh",
+          "name": "Everything I Thought It Was",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7",
+                "profile": {
+                  "name": "Justin Timberlake"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02aac85c17ae742b399776cdab",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851aac85c17ae742b399776cdab",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273aac85c17ae742b399776cdab",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2024
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:5dGWwsZ9iB2Xc3UKR0gif2",
+          "name": "Justice",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+                "profile": {
+                  "name": "Justin Bieber"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2021
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:1hbOPOp2SfFKSr5tN58jPa",
+          "name": "Sign The Contract (Mike Tyson vs. Jake Paul)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1aUXjtTfbioFGgnNyQhODu",
+                "profile": {
+                  "name": "Justin J"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02c5f20b5652819cbfcb4c4956",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851c5f20b5652819cbfcb4c4956",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273c5f20b5652819cbfcb4c4956",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2024
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr",
+          "name": "Purpose (Deluxe)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+                "profile": {
+                  "name": "Justin Bieber"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2015
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:0TFnqSBUgqXNg4QiWafI4A",
+          "name": "Justin",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5SeXFc1f3INXLRq7TiyYlS",
+                "profile": {
+                  "name": "StaJe"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02696f34c8cc7f9acc97a4862d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851696f34c8cc7f9acc97a4862d",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273696f34c8cc7f9acc97a4862d",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2022
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:7yI8ppmq1tmqF09Qbi1tcj",
+          "name": "Justin Moore",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:30e8DmahrEamvLbFRPdWmk",
+                "profile": {
+                  "name": "Justin Moore"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02da2052e05dd848225e84ac5b",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851da2052e05dd848225e84ac5b",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273da2052e05dd848225e84ac5b",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2009
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:7bIeSjCfmrSK9GU4JQQuuT",
+          "name": "Jenn's song, She's a source of inspiration in the shadows, a sanctuary of warmth and belonging. She fills the void in my chest with hope. She makes dreams reality and she lives a life true to herself. She is the epitome of love & compassion.",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1Cls57jfo7w1r4fWmgItj4",
+                "profile": {
+                  "name": "Justin Stewart"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e022f597900e83d7c8ea144b164",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048512f597900e83d7c8ea144b164",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2732f597900e83d7c8ea144b164",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2024
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:0tcExuDWMQdBbwSpqN8Ku2",
+          "name": "FutureSex/LoveSounds Deluxe Edition",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7",
+                "profile": {
+                  "name": "Justin Timberlake"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02c68f26a3d34fbd0faed2b473",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851c68f26a3d34fbd0faed2b473",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273c68f26a3d34fbd0faed2b473",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2006
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:2ffxwp8QB7UTeSRu76pHf5",
+          "name": "Justin",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:3yQMCDmPQPJlf6xJMzcnZL",
+                "profile": {
+                  "name": "Chow Lee"
+                }
+              }
+            ]
+          },
+
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ab8d020787cc852f8e0aebb6",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851ab8d020787cc852f8e0aebb6",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ab8d020787cc852f8e0aebb6",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+
+          "date": {
+            "year": 2020
+          }
+        }
+      }
+    ],
+
+    "pagingInfo": {
+      "nextOffset": 9,
+      "limit": 9
+    }
+  }
+}

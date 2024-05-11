@@ -1,0 +1,547 @@
+{
+  "query": "selena+gomez",
+  "tracks": {
+    "totalCount": 683,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:track:0laYHRpNTS6i8FXdupHkJ4",
+          "id": "0laYHRpNTS6i8FXdupHkJ4",
+          "name": "Love You Like A Love Song",
+          "albumOfTrack": {
+            "uri": "spotify:album:49yHvRh1cOfLcEKukEP7Ox",
+            "name": "When The Sun Goes Down",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e021c8193de8d62b2ffa49a09db",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048511c8193de8d62b2ffa49a09db",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731c8193de8d62b2ffa49a09db",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "49yHvRh1cOfLcEKukEP7Ox",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox?si=QkU46hUPQJuFbxtWjVLeCg"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:6dJeKm76NjfXBNTpHmOhfO",
+                "profile": {
+                  "name": "Selena Gomez & The Scene"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 188453
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:0WtM2NBVQNNJLh6scP13H8",
+          "id": "0WtM2NBVQNNJLh6scP13H8",
+          "name": "Calm Down (with Selena Gomez)",
+          "albumOfTrack": {
+            "uri": "spotify:album:2b2GHWESCWEuHiCZ2Skedp",
+            "name": "Calm Down (with Selena Gomez)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02a3a7f38ea2033aa501afd4cf",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851a3a7f38ea2033aa501afd4cf",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "2b2GHWESCWEuHiCZ2Skedp",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp?si=pW9fEcGTQbCfWP2orolzow"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:46pWGuE3dSwY3bMMXGBvVS",
+                "profile": {
+                  "name": "Rema"
+                }
+              },
+              {
+                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+                "profile": {
+                  "name": "Selena Gomez"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 239317
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:4l0Mvzj72xxOpRrp6h8nHi",
+          "id": "4l0Mvzj72xxOpRrp6h8nHi",
+          "name": "Lose You To Love Me",
+          "albumOfTrack": {
+            "uri": "spotify:album:3YPFaTR7WMi1Hd4NVKdCJx",
+            "name": "Rare",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e022abcc266597eb46f897a8666",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048512abcc266597eb46f897a8666",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "3YPFaTR7WMi1Hd4NVKdCJx",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx?si=2pscbgVbQwODw2xLQTlPag"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+                "profile": {
+                  "name": "Selena Gomez"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 206458
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1BZG99C7Co1r6QUC3zaS59",
+          "id": "1BZG99C7Co1r6QUC3zaS59",
+          "name": "Same Old Love",
+          "albumOfTrack": {
+            "uri": "spotify:album:7lDBDk8OQarV5dBMu3qrdz",
+            "name": "Revival (Deluxe)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e6f5ed9a9059f686965ba90a",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851e6f5ed9a9059f686965ba90a",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "7lDBDk8OQarV5dBMu3qrdz",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz?si=G3ekd4TvQ5Ke0OkaSQqUIA"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+                "profile": {
+                  "name": "Selena Gomez"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 229080
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:6iF4RgIjDvDqyW13PezSj3",
+          "id": "6iF4RgIjDvDqyW13PezSj3",
+          "name": "Single Soon",
+          "albumOfTrack": {
+            "uri": "spotify:album:6EejduBuRYb7rzJaD2YCqO",
+            "name": "Single Soon",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02fabd32dd9cefca8714c0ed41",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851fabd32dd9cefca8714c0ed41",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273fabd32dd9cefca8714c0ed41",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "6EejduBuRYb7rzJaD2YCqO",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO?si=nuJgZW3wTdmzvG2XFQA_nw"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+                "profile": {
+                  "name": "Selena Gomez"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 171655
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1LoriJC05IrHIDwj3q0KC1",
+          "id": "1LoriJC05IrHIDwj3q0KC1",
+          "name": "Hands To Myself",
+          "albumOfTrack": {
+            "uri": "spotify:album:7lDBDk8OQarV5dBMu3qrdz",
+            "name": "Revival (Deluxe)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e6f5ed9a9059f686965ba90a",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851e6f5ed9a9059f686965ba90a",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "7lDBDk8OQarV5dBMu3qrdz",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz?si=G3ekd4TvQ5Ke0OkaSQqUIA"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+                "profile": {
+                  "name": "Selena Gomez"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 200680
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:37FXw5QGFN7uwwsLy8uAc0",
+          "id": "37FXw5QGFN7uwwsLy8uAc0",
+          "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+          "albumOfTrack": {
+            "uri": "spotify:album:3kndSWeE2IYOrZEToZrHEV",
+            "name": "Nine Track Mind",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e024fe297c018e495a97662e5ac",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048514fe297c018e495a97662e5ac",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "3kndSWeE2IYOrZEToZrHEV",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV?si=rgdNUhgkTJyn9rAaEwYY-g"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7",
+                "profile": {
+                  "name": "Charlie Puth"
+                }
+              },
+              {
+                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+                "profile": {
+                  "name": "Selena Gomez"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 217706
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:2fB5YRuD88drKpCXQOAk03",
+          "id": "2fB5YRuD88drKpCXQOAk03",
+          "name": "Love On",
+          "albumOfTrack": {
+            "uri": "spotify:album:7I7rbWQoLZ7PrTMsRfocpL",
+            "name": "Love On",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e021dd155d9de58c834e0eb38b6",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048511dd155d9de58c834e0eb38b6",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731dd155d9de58c834e0eb38b6",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "7I7rbWQoLZ7PrTMsRfocpL",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL?si=-YON1svJTGuIXs8NfNX95Q"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+                "profile": {
+                  "name": "Selena Gomez"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 181650
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:3TcL0dyCMyr0kyTTc4NLgI",
+          "id": "3TcL0dyCMyr0kyTTc4NLgI",
+          "name": "Who Says",
+          "albumOfTrack": {
+            "uri": "spotify:album:49yHvRh1cOfLcEKukEP7Ox",
+            "name": "When The Sun Goes Down",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e021c8193de8d62b2ffa49a09db",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048511c8193de8d62b2ffa49a09db",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731c8193de8d62b2ffa49a09db",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+
+            "id": "49yHvRh1cOfLcEKukEP7Ox",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox?si=QkU46hUPQJuFbxtWjVLeCg"
+            }
+          },
+
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:6dJeKm76NjfXBNTpHmOhfO",
+                "profile": {
+                  "name": "Selena Gomez & The Scene"
+                }
+              }
+            ]
+          },
+
+          "contentRating": {
+            "label": "NONE"
+          },
+
+          "duration": {
+            "totalMilliseconds": 195613
+          },
+
+          "playability": {
+            "playable": true
+          }
+        }
+      }
+    ],
+
+    "pagingInfo": {
+      "nextOffset": 9,
+      "limit": 9
+    }
+  }
+}
