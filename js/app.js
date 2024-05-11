@@ -12,6 +12,8 @@ let [search1, search2, search3] = searchBoxes
 //1. 
 search1.addEventListener('keyup', async function(event){
     if(event.key== 'Enter'){
+        console.log(event)
+        
         let dataUris = await discoverNewAlbums(event.target.value)
 
         //Actualizar las uri de la busqueda
@@ -43,6 +45,21 @@ search2.addEventListener('keyup', async function(event){
     }
 })
 
+search3.addEventListener('keyup', async function(event){
+    if(event.key== 'Enter'){
+        let dataUris = await trackList(event.target.value)
 
+        //Actualizar las uri de la busqueda
 
+        let updateTrackBox = document.querySelector('.box__tracks__list')
+        updateTrackBox.innerHTML = ``
+        for (let idTrack of dataUris){
+
+            let trackComponent = document.createElement("my-songs-playlist")
+            trackComponent.setAttribute ("uri", idTrack)
+            updateTrackBox.append(trackComponent)
+        }
+
+    }
+})
 

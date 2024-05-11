@@ -1,99 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Spotify</title>
-    <link rel="shortcut icon" href="./storage/img/Spotify_logo_without_text.svg.png" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link
+      rel="shortcut icon"
+      href="./storage/img/Spotify_logo_without_text.svg.png"
+      type="image/x-icon"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
     <script src="./js/app.js" type="module" defer></script>
-    <link rel="stylesheet" href="./css/style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
     <main id="main">
-        <section id="album" class="discover__new__music">
-            <h1 class="discover__title">Discover <br>
-            New music</h1>
+      <section id="album" class="discover__new__music">
+        <h1 class="discover__title">
+          Discover <br />
+          New music
+        </h1>
 
-            <article class="searchBox">
-                <i class="bi bi-search"></i>
-                <input class="textSearch" type="text" placeholder="What do you want to play?">
-            </article>
+        <article class="searchBox">
+          <i class="bi bi-search"></i>
+          <input
+            class="textSearch"
+            type="text"
+            placeholder="What do you want to play?"
+          />
+        </article>
 
-            <div class="divDiscover"></div>
+        <div class="divDiscover"></div>
 
-            <article class="box__album__list">
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"></my-songs-playlist>
-            </article>
+        <article class="box__album__list">
+          <my-songs-playlist
+            uri="spotify:album:7ot6ebVthlYG3wXzLaZ5NF"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:4PR6koe67C7YosjAYriYh4"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:5oCAS6VzHoESewtXUGMqbz"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:2j9oqldlB7MHc3MTjV3YSb"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:50SdnzlrXUMadt9JYeaJSh"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:0bS4Bihos05zvsFKZzHoJl"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:5XCVSBjX4okDLL5xRfUmeU"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:4UzpURCRisCfPfYZ96rsLE"
+          ></my-songs-playlist
+          ><my-songs-playlist
+            uri="spotify:album:5UiVDcL6zXRenqTskSyMeu"
+          ></my-songs-playlist>
+        </article>
+      </section>
 
+      <section id="track" class="now__playing">
+        <h1 class="playing__title">Now playing</h1>
+        <article class="searchBox">
+          <i class="bi bi-search"></i>
+          <input
+            class="textSearch"
+            type="text"
+            placeholder="What do you want to play?"
+          />
+        </article>
+        <div></div>
+        <my-frame uri="spotify:track:6iF4RgIjDvDqyW13PezSj3"></my-frame>
+      </section>
 
+      <section id="all_tracks" class="track__list">
+        <h1 class="track__title">Track list</h1>
+        <article class="searchBox">
+          <i class="bi bi-search"></i>
+          <input
+            class="textSearch"
+            type="text"
+            placeholder="What do you want to play?"
+          />
+        </article>
 
-        </section>
+        <div class="divTrackList"></div>
 
-        <section id="track" class="now__playing">
-            
-            <h1 class="playing__title">Now playing</h1>
-            <article class="searchBox">
-                <i class="bi bi-search"></i>
-                <input class="textSearch" type="text" placeholder="What do you want to play?">
-            </article>
-            <div></div>
-            <my-frame uri="spotify:track:6iF4RgIjDvDqyW13PezSj3"></my-frame>
-
-
-        </section>
-
-        <section id="all_tracks" class="track__list">
-            <h1 class="track__title">Track list</h1>
-            <article class="searchBox">
-                <i class="bi bi-search"></i>
-                <input class="textSearch" type="text" placeholder="What do you want to play?">
-            </article>
-    
-            <div class="divTrackList"></div>
-
-            <article class="box__tracks__list">  
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-                <my-songs-playlist uri="spotify:track:2bpHc7nCduKQWJVNqJ4mDj"></my-songs-playlist>
-
-            </article>
-            
-        </section>
-
+        <article class="box__tracks__list">
+          <article class="box__album__list">
+            <my-songs-playlist
+              uri="spotify:album:0RdSengz6ayOfcVwH3HBry"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:0h5kdDV8N7IdG6j9ABT97O"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:5LbfmeWh5cvLpR1Nfvdch5"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:0uvkO5cilro9YXKdvIhbg1"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:7vyVMX83PJNulUZUgbKfuY"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:6WyQUIEB9AjX3DxNRUiUgw"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:2y7mrwYkhrixNucWSalv9n"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:6mGDfbDErYIJsmSewvccWm"
+            ></my-songs-playlist
+            ><my-songs-playlist
+              uri="spotify:album:20Jf4Vb1V3MMv1QI1cKNNI"
+            ></my-songs-playlist>
+          </article>
+        </article>
+      </section>
     </main>
 
     <nav class="menu">
-
-        <ul>
-            <li>
-                <a href="#album"><i class="bi bi-music-note-list"></i></a>
-            </li>
-            <li>
-                <a href="#track"><i class="bi bi-headphones"></i></a>
-            </li>
-            <li>
-                <a href="#all_tracks"><i class="bi bi-music-note"></i></a>
-            </li>
-        </ul>
-
+      <ul>
+        <li>
+          <a href="#album"><i class="bi bi-music-note-list"></i></a>
+        </li>
+        <li>
+          <a href="#track"><i class="bi bi-headphones"></i></a>
+        </li>
+        <li>
+          <a href="#all_tracks"><i class="bi bi-music-note"></i></a>
+        </li>
+      </ul>
     </nav>
-
-    
-    
-</body>
+  </body>
 </html>
