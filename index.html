@@ -11,7 +11,7 @@
 </head>
 <body>
     <main id="main">
-        <section class="discover__new__music">
+        <section id="album" class="discover__new__music">
             <h1 class="discover__title">Discover <br>
             New music</h1>
 
@@ -38,7 +38,7 @@
 
         </section>
 
-        <section class="now__playing">
+        <section id="track" class="now__playing">
             
             <h1 class="playing__title">Now playing</h1>
             <article class="searchBox">
@@ -51,7 +51,7 @@
 
         </section>
 
-        <section class="track__list">
+        <section id="all_tracks" class="track__list">
             <h1 class="track__title">Track list</h1>
             <article class="searchBox">
                 <i class="bi bi-search"></i>
@@ -73,8 +73,6 @@
 
             </article>
             
-
-
         </section>
 
     </main>
@@ -82,14 +80,14 @@
     <nav class="menu">
 
         <ul>
-            <li id="album">
-                <i class="bi bi-music-note-list"></i>
+            <li>
+                <a href="#album"><i class="bi bi-music-note-list"></i></a>
             </li>
-            <li id="track">
-                <i class="bi bi-headphones"></i>
+            <li>
+                <a href="#track"><i class="bi bi-headphones"></i></a>
             </li>
-            <li id="all_tracks">
-                <i class="bi bi-music-note"></i>
+            <li>
+                <a href="#all_tracks"><i class="bi bi-music-note"></i></a>
             </li>
         </ul>
 

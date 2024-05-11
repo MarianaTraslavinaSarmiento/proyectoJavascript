@@ -175,7 +175,7 @@ my-frame{
         padding: 0px;
         overflow-y: hidden;
         scroll-snap-type: x mandatory;
-        
+        scroll-behavior: smooth;
     }
 
     html{
