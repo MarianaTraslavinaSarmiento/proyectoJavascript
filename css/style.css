@@ -10,7 +10,8 @@
 
 body{
     background-color: var(--color-two);
-    padding: 10px
+    padding: 10px;
+    height: 100svh
 }
 
 
@@ -18,18 +19,39 @@ body{
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     grid-gap: 10px;
-    background-color: var(--color-two)
+    background-color: var(--color-two);
+    height: 100%;
     
 }
+
 
 .discover__new__music, .now__playing, .track__list{
     background-color: var(--color-one);
     border-radius: 5px;
-    height: 97vh;
-    padding: 15px
+
+    padding: 25px
 
 }
 
+/* MAIN TITLES */
+
+.discover__title{
+    font-size: 2em;
+}
+
+.track__title{
+    font-size: 1.7em;
+    margin: 0px 0px 10px 0px
+}
+
+.playing__title{
+
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+}
+
+
+/* SEARCH BAR */
 
 .searchBox i{
     color: #bbbbbb;
@@ -49,8 +71,6 @@ body{
 
 }
 
-
-
 .textSearch {
     width: 100%;
     background-color: #242424;
@@ -68,6 +88,53 @@ body{
     background-color: #282828;
 }
 
+/* NOW PLAYING */
+
+div{
+    height: 3.5vh;
+}
 
 
+.divDiscover{
+    height: 5vh;
+}
 
+.box__album__list{
+
+    display: grid;
+    overflow: scroll;
+    height: 78vh;
+    grid-gap: 5px
+
+}
+
+.box__album__list::-webkit-scrollbar {
+    display: none;
+}
+
+my-frame{
+
+    display: flex;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+    position: absolute;
+}
+/* TRACK LIST */
+
+.divTrackList{
+
+    height: 5vh;
+}
+
+.box__tracks__list{
+
+    display: grid;
+    overflow: scroll;
+    height: 81vh;
+    grid-gap: 5px
+}
+
+.box__tracks__list::-webkit-scrollbar {
+    display: none;
+}
