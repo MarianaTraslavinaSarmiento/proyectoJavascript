@@ -9,6 +9,24 @@ const searchBoxes = document.querySelectorAll('.searchBox')
 let [search1, search2, search3] = searchBoxes
 
 
+//1. 
+search1.addEventListener('keyup', async function(event){
+    if(event.key== 'Enter'){
+        let dataUris = await discoverNewAlbums(event.target.value)
+
+        //Actualizar las uri de la busqueda
+
+        let updateAlbumBox = document.querySelector('.box__album__list')
+        updateAlbumBox.innerHTML = ``
+        for (let idAlbum of dataUris){
+
+            let albumComponent = document.createElement("my-songs-playlist")
+            albumComponent.setAttribute ("uri", idAlbum)
+            updateAlbumBox.append(albumComponent)
+        }
+
+    }
+})
 
 
 search2.addEventListener('keyup', async function(event){

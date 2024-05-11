@@ -25,9 +25,14 @@ export const discoverNewAlbums = async (query) =>{
     try {
         const response = await fetch(url, options);
         const result = await response.json();
-        let album = result.albums.items[0].data.uri
-    
-        return song;
+        let uris = []
+
+        for(let album of result.albums.items){
+            uris.push(album.data.uri)   
+        }
+   
+        return uris;
+        
         
     } catch (error) {
         console.error(error);
