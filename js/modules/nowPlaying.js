@@ -20,9 +20,12 @@ export const nowPlaying = async (query) =>{
         const result = await response.json();
         let song = result.tracks.items[0].data.uri
 
-        console.log(song);
+        return song;
+        
     } catch (error) {
         console.error(error);
     }
+
+
 
 }
