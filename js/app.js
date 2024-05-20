@@ -11,7 +11,7 @@ let [search1, search2, search3] = searchBoxes
 
 //1. 
 search1.addEventListener('keyup', async function(event){
-    if(event.key== 'Enter'){
+    if(event.keyCode === 13){
         console.log(event)
         
         let dataUris = await discoverNewAlbums(event.target.value)
@@ -32,7 +32,7 @@ search1.addEventListener('keyup', async function(event){
 
 
 search2.addEventListener('keyup', async function(event){
-    if(event.key== 'Enter'){
+    if(event.keyCode === 13){
         let data = await nowPlaying(event.target.value)
 
         //Actualizar las uri de la busqueda
@@ -46,7 +46,7 @@ search2.addEventListener('keyup', async function(event){
 })
 
 search3.addEventListener('keyup', async function(event){
-    if(event.key== 'Enter'){
+    if(event.keyCode === 13){
         let dataUris = await trackList(event.target.value)
 
         //Actualizar las uri de la busqueda
